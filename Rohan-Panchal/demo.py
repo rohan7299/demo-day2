@@ -1,0 +1,1 @@
+a = "Rohan Panchal";print(""+a)
