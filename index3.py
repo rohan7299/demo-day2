@@ -11,3 +11,4 @@ surname="Panchal"
 y=7;
 name="rohan"
 age=30
+gender="Male"
