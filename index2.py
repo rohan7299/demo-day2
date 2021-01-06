@@ -10,4 +10,6 @@ name3="Mitul"
 name4="abcd"
 name3="Mitul"
 name5="pqr"
+print(name5)
+name5="pqr"
 print(name4)
