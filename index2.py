@@ -13,3 +13,4 @@ name5="pqr"
 print(name5)
 name5="pqr"
 print(name4)
+print(name1)
